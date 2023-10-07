@@ -29,6 +29,7 @@
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
  
-
+&nbsp;<div align="center">
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=89063qytunpv2tqbecdutxgd3)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=08e800&height=120&section=footer"/>
